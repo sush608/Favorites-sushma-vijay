@@ -1,0 +1,39 @@
+.abc{width: 300px;
+border-color: black;
+border-style: solid;
+display:block;
+  margin-left: auto;
+  margin-right: auto;
+margin-top: 10px;}
+.me {text-align: center;
+color:darkblue;
+border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    padding: 20px;
+  background-color: darkgray;}
+
+.def{
+  width: 300px;
+ border-color: black;
+border-style: solid;
+display: block;
+      margin-left: auto;
+      margin-right: auto;
+
+      }
+      p{color:blueviolet;
+      text-align: center;font-size:30px}
+    
+.test1{color: darkorchid;
+text-align:center;
+border-style: solid;}
+body{background-color:gold;}
+li {color:chocolate;
+  font-size: 40px;
+margin-top: 10px;
+margin-bottom: 10px;
+text-align: center;}
+
+
+
